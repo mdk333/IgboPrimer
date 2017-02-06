@@ -1,0 +1,15 @@
+<!--
+  ~ Author: Maduka Attamah
+  ~ Copyright (c) 2017 Maduka Attamah.
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mdk.igboprimer.IgboPrimerActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>

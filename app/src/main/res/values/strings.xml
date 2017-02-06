@@ -1,0 +1,114 @@
+<!--
+  ~ Author: Maduka Attamah
+  ~ Copyright (c) 2017 Maduka Attamah.
+  -->
+
+<resources>
+    <string name="app_name">Igbo Primer</string>
+    <string name="familyMembersCategory">Family Members</string>
+    <string name="numbersCategory">Numbers</string>
+    <string name="coloursCategory">Colours</string>
+    <string name="phrasesCategory">Common Phrases</string>
+
+    <!-- Family Members Igbo -->
+    <string name="daughter">Nwa Nwanyi</string>
+    <string name="father">Papa</string>
+    <string name="grandfather">Papa Nnukwu</string>
+    <string name="grandmother">Mama Nnukwu</string>
+    <string name="mother">Mama</string>
+    <string name="olderBrother">Nwanne Nwoke Nnukwu</string>
+    <string name="olderSister">Nwanne Nwanyi Nnukwu</string>
+    <string name="sibling">Nwanne</string>
+    <string name="son">Nwa Nwoke</string>
+    <string name="youngerBrother">Nwanne Nwoke Obele</string>
+    <string name="youngerSister">Nwanne Nwanyi Obele</string>
+
+    <!-- Family Members Translation -->
+    <string name="daughterTranslation">Daughter</string>
+    <string name="fatherTranslation">Father</string>
+    <string name="grandfatherTranslation">Grandfather</string>
+    <string name="grandmotherTranslation">Grandmother</string>
+    <string name="motherTranslation">Mother</string>
+    <string name="olderBrotherTranslation">Older Brother</string>
+    <string name="olderSisterTranslation">Older Sister</string>
+    <string name="siblingTranslation">Sibling</string>
+    <string name="sonTranslation">Son</string>
+    <string name="youngerBrotherTranslation">Younger Brother</string>
+    <string name="youngerSisterTranslation">Younger Sister</string>
+
+
+    <!-- Numbers Igbo -->
+    <string name="one">Otu</string>
+    <string name="two">Abuo</string>
+    <string name="three">Ato</string>
+    <string name="four">Ano</string>
+    <string name="five">Ise</string>
+    <string name="six">Isii</string>
+    <string name="seven">Asaa</string>
+    <string name="eight">Asato</string>
+    <string name="nine">Iteghete</string>
+    <string name="ten">Iri</string>
+
+    <!-- Numbers Translation -->
+    <string name="oneTranslation">One</string>
+    <string name="twoTranslation">Two</string>
+    <string name="threeTranslation">Three</string>
+    <string name="fourTranslation">Four</string>
+    <string name="fiveTranslation">Five</string>
+    <string name="sixTranslation">Six</string>
+    <string name="sevenTranslation">Seven</string>
+    <string name="eightTranslation">Eight</string>
+    <string name="nineTranslation">Nine</string>
+    <string name="tenTranslation">Ten</string>
+
+    <!-- Colours Igbo -->
+    <string name="blackColour">Oji</string>
+    <string name="brown">Agwa Ala</string>
+    <string name="dustyYellow">Agwa Aja</string>
+    <string name="yellow">Edo</string>
+    <string name="green">Agwa Akwukwo Nri</string>
+    <string name="red">Uhie</string>
+    <string name="white">Ocha</string>
+    <string name="gray">Uchantu</string>
+
+    <!-- Colours Translation -->
+    <string name="blackColourTranslation">Black</string>
+    <string name="brownTranslation">Brown</string>
+    <string name="dustyYellowTranslation">Dusty Yellow</string>
+    <string name="yellowTranslation">Yellow</string>
+    <string name="greenTranslation">Green</string>
+    <string name="redTranslation">Red</string>
+    <string name="whiteTranslation">White</string>
+    <string name="grayTranslation">Gray</string>
+
+    <!-- Common Phrases Igbo -->
+    <string name="comeHere">Bia Ebe a</string>
+    <string name="yes">Eee</string>
+    <string name="no">Mba</string>
+    <string name="howAreYou">Kedu?</string>
+    <string name="goodMorning">Ututu Oma</string>
+    <string name="wellDone">Daalu</string>
+    <string name="thankYou">Imela</string>
+    <string name="itIsWell">O di mma</string>
+    <string name="wait">Chelu</string>
+    <string name="peace">Udo</string>
+
+    <!-- Common Phrases Translation -->
+    <string name="comeHereTranslation">Come</string>
+    <string name="yesTranslation">Yes</string>
+    <string name="noTranslation">No</string>
+    <string name="howAreYouTranslation">How are you?</string>
+    <string name="goodMorningTranslation">Good morning</string>
+    <string name="wellDoneTranslation">Well done</string>
+    <string name="thankYouTranslation">Thank you</string>
+    <string name="itIsWellTranslation">It is well</string>
+    <string name="waitTranslation">Wait</string>
+    <string name="peaceTranslation">Peace</string>
+    <string name="title_activity_igbo_primer">Igbo Primer</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

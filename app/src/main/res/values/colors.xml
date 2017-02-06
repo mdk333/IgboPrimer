@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Author: Maduka Attamah
+  ~ Copyright (c) 2017 Maduka Attamah.
+  -->
+
+<resources>
+    <!-- The background colour of the app -->
+    <color name="orange_background">#FFF7DA</color>
+    <!-- Colour for the status bar -->
+    <color name="colourPrimaryDark">#2F1D1A</color>
+    <!-- Colur for the app bar -->
+    <color name="colourPrimary">#4A312A</color>
+   <!-- <color name="colorAccent">#FF4081</color> -->
+    <!-- Colour for the Numbers category -->
+    <color name="numbersCategory">#FD8E09</color>
+    <!-- Colour for the Family Members category -->
+    <color name="familyMembersCategory">#379237</color>
+    <!-- Colour for the Colours category -->
+    <color name="coloursCategory">#8800A0</color>
+    <!-- Colour for the Phrases category -->
+    <color name="phrasesCategory">#16AFCA</color>
+
+</resources>
